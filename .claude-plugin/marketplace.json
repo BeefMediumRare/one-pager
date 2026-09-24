@@ -1,0 +1,13 @@
+{
+  "name": "one-pager",
+  "owner": {
+    "name": "Dennis Markmann"
+  },
+  "plugins": [
+    {
+      "name": "one-pager",
+      "source": "./",
+      "description": "One-page design documents in the Stone Librande style: greybox, written spec, or styled poster with split reviews."
+    }
+  ]
+}

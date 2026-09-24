@@ -1,0 +1,11 @@
+{
+  "name": "one-pager",
+  "version": "0.1.0",
+  "description": "One-page design documents in the Stone Librande style: talk a design through, compress it, and render it as a greybox, a written spec, or a styled poster with split reviews.",
+  "author": {
+    "name": "Dennis Markmann"
+  },
+  "license": "MIT",
+  "keywords": ["design", "one-pager", "spec", "poster", "documentation"],
+  "skills": ["./skills/one-pager"]
+}
